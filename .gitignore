@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# others
+*.so
+counter-fitted-vectors.txt
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+nohup.out
+MANIFEST
+
+# Datasets, pretrained models, checkpoints and preprocessed files
+data/
+!visdialch/data/
+checkpoints/
+checkpoints-release/
+logs/
+logits/
+results/
+dev/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# virtualenv
+venv/
+ENV/
