@@ -13,11 +13,11 @@ Pytorch Implementation for the paper:
 Citation
 -----------------------------
 If you use this code or preprocessed data in your research, please consider citing:
-```text
+```bibtex
 @inproceedings{kang2023dialog,
   title={The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training},
   author={Kang, Gi-Cheon and Kim, Sungdong and Kim, Jin-Hwa and Kwak, Donghyun and Zhang, Byoung-Tak},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={CVPR},
   year={2023}
 }
 ```
