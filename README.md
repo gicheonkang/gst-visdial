@@ -8,7 +8,7 @@ Pytorch Implementation for the paper:
 **In CVPR 2023**
 
 ## Overview
-<img src="gst_overview.gif" width="90%" align="middle"><br><br>
+<img src="gst_overview.gif" width="100%" align="middle"><br><br>
 
 Citation
 -----------------------------
