@@ -3,9 +3,9 @@
   
 **[Gi-Cheon Kang][2], &nbsp; [Sungdong Kim][3]<sup>\*</sup>, &nbsp; [Jin-Hwa Kim][4]<sup>\*</sup>, &nbsp; [Donghyun Kwak][5]<sup>\*</sup>, &nbsp; [Byoung-Tak Zhang][6]** <br>
 
-(\* Equal Contribution) <br>
+**(\* Equal Contribution)** <br>
 
-<h2>**[CVPR 2023][16]**</h2>
+<h2>CVPR 2023</h2>
 </div>
 
 
