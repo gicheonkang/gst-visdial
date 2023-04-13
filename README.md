@@ -5,7 +5,7 @@
 
 **(\* Equal Contribution)** <br>
 
-<h2>CVPR 2023</h2>
+**[CVPR 2023][16]**
 </div>
 
 
