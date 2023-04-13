@@ -5,7 +5,7 @@
 
 **(\* Equal Contribution)** <br>
 
-**[CVPR 2023][16]**
+**To appear at [CVPR 2023][16] ([Paper Link][1])**
 </div>
 
 
