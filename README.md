@@ -1,9 +1,9 @@
-<div align="center">
 Generative Self-Training for Visual Dialog
 ===========================================
 
 Pytorch Implementation for the paper:
 
+<div align="center">
 **[The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training][1]** <br>
 [Gi-Cheon Kang][2], &nbsp; [Sungdong Kim][3]<sup>\*</sup>, &nbsp; [Jin-Hwa Kim][4]<sup>\*</sup>, &nbsp; [Donghyun Kwak][5]<sup>\*</sup>, &nbsp; [Byoung-Tak Zhang][6]  (\* equal contribution) <br>
 
