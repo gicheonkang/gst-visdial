@@ -3,7 +3,7 @@
 
 **[The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training][1]** <br>
   
-[Gi-Cheon Kang][2], &nbsp; [Sungdong Kim][3]<sup>\*</sup>, &nbsp; [Jin-Hwa Kim][4]<sup>\*</sup>, &nbsp; [Donghyun Kwak][5]<sup>\*</sup>, &nbsp; [Byoung-Tak Zhang][6]  (\* equal contribution) <br>
+[Gi-Cheon Kang][2], &nbsp; [Sungdong Kim][3]<sup>\*</sup>, &nbsp; [Jin-Hwa Kim][4]<sup>\*</sup>, &nbsp; [Donghyun Kwak][5]<sup>\*</sup>, &nbsp; [Byoung-Tak Zhang][6] <br>
 
 **[CVPR 2023][16]**
 </div>
