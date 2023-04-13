@@ -1,11 +1,11 @@
 <div align="center">
-<h1>Generative Self-Training for Visual Dialog</h1>
-
-**[The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training][1]** <br>
+<h1>The Dialog Must Go On: Improving Visual Dialog via Generative Self-Training</h1>
   
-[Gi-Cheon Kang][2], &nbsp; [Sungdong Kim][3]<sup>\*</sup>, &nbsp; [Jin-Hwa Kim][4]<sup>\*</sup>, &nbsp; [Donghyun Kwak][5]<sup>\*</sup>, &nbsp; [Byoung-Tak Zhang][6] <br>
+**[Gi-Cheon Kang][2], &nbsp; [Sungdong Kim][3]<sup>\*</sup>, &nbsp; [Jin-Hwa Kim][4]<sup>\*</sup>, &nbsp; [Donghyun Kwak][5]<sup>\*</sup>, &nbsp; [Byoung-Tak Zhang][6]** <br>
 
-**[CVPR 2023][16]**
+(\* Equal Contribution) <br>
+
+<h2>**[CVPR 2023][16]**</h2>
 </div>
 
 
