@@ -5,7 +5,9 @@
 
 **(\* Equal Contribution)** <br>
 
-**[CVPR 2023][16]**
+<h2>CVPR 2023</h2>
+
+** [Paper][1] &nbsp ｜ &nbsp [Demo](#Demo) &nbsp ｜ &nbsp [Checkpoints](#Pre-trained-Checkpoints) **
 </div>
 
 
