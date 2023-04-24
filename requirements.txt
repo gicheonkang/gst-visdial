@@ -27,13 +27,13 @@ greenlet==1.1.2
 grpcio==1.32.0
 h5py==2.10.0
 huggingface-hub==0.4.0
- hupper==1.10.3
- idna==2.10
- jmespath==0.10.0
- joblib==1.1.1
- jsonpatch==1.32
- jsonpointer==2.2
- Keras-Preprocessing==1.1.2
+hupper==1.10.3
+idna==2.10
+jmespath==0.10.0
+joblib==1.0.1
+jsonpatch==1.32
+jsonpointer==2.2
+Keras-Preprocessing==1.1.2
 lmdb==1.2.1
 Markdown==3.3.3
 MarkupSafe==2.0.1
