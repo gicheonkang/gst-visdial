@@ -30,7 +30,7 @@ huggingface-hub==0.4.0
 hupper==1.10.3
 idna==2.10
 jmespath==0.10.0
-joblib==1.0.1
+joblib==1.1.1
 jsonpatch==1.32
 jsonpointer==2.2
 Keras-Preprocessing==1.1.2
