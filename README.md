@@ -40,7 +40,7 @@ If you use this code or preprocessed data in your research, please consider citi
 
 Setup and Dependencies
 ----------------------
-This code is implemented using PyTorch v1.7+, and provides out of the box support with CUDA 11+ and CuDNN 7+. Anaconda/Miniconda is the recommended to set up this codebase: <br>
+This code is implemented using PyTorch v1.7.1+, and provides out of the box support with CUDA 11+ and CuDNN 7+. Anaconda/Miniconda is the recommended to set up this codebase: <br>
 
 1. Install Anaconda or Miniconda distribution based on Python3.8+ from their [downloads' site][7].
 2. Clone this repository and create an environment:
