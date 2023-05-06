@@ -47,11 +47,12 @@ This code is implemented using PyTorch v1.7+, and provides out of the box suppor
 
 ```shell
 git clone https://www.github.com/gicheonkang/gst-visdial
-conda env create -f env.yml
+conda create -n gst python=3.8 -y
 
 # activate the environment and install all dependencies
 conda activate gst
-cd gst-visdial/
+pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+pip install -r requirements.txt
 ```
 
 Download Data
